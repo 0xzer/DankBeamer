@@ -1,0 +1,6 @@
+{
+    "newUserLevel0": {"incrType":"percentage","by":200,"text":"New User Level 0","type":"coins"},
+    "tipsEnabled": {"incrType":"percentage","by":18,"text":"Tips Enabled","type":"coins"},
+    "voteReminderOn": {"incrType":"percentage","by":2,"text":"Vote Reminder On","type":"coins"},
+    "smallLevel": {"incrType":"multiply","by":1.5,"text":"Small Level","type":"xp"}
+}

@@ -1,0 +1,15 @@
+{
+   "error": "#c92644",
+   "success": "#72f041",
+   "warning": "#c2ad13",
+   "debug": "#657494",
+   "time_color": "#625585",
+   "bracket_color": "#636b68",
+   "symbols": {
+    "success": "✓",
+    "error": "✗",
+    "warning": "❔",
+    "debug": "DEBUG"
+   },
+   "beautifyIntegers": true
+}

@@ -1,0 +1,186 @@
+[
+    {
+        "id": 1,
+        "itemKey": "rock",
+        "name": "Rock",
+        "price": 50000,
+        "hostile": ["snake","blob"],
+        "friendly": ["rock"]
+    },
+    {
+        "id": 2,
+        "itemKey": "crab",
+        "name": "Crab",
+        "price": 75000,
+        "hostile": ["snake"],
+        "friendly": ["rock","boxturtle","crab"]
+    },
+    {
+        "id": 3,
+        "itemKey": "snake",
+        "name": "Snake",
+        "price": 100000,
+        "hostile": ["cat","dog","catgirl"],
+        "friendly": ["dragon","snake"]
+    },
+    {
+        "id": 4,
+        "itemKey": "dog",
+        "name": "Dog",
+        "price": 100000,
+        "hostile": ["cat","catgirl"],
+        "friendly": ["birb","rabbit","dog","monkey","duck"]
+    },
+    {
+        "id": 5,
+        "itemKey": "cat",
+        "name": "Cat",
+        "price": 100000,
+        "hostile": ["snake","birb"],
+        "friendly": ["cat","catgirl","alien"]
+    },
+    {
+        "id": 6,
+        "itemKey": "duck",
+        "name": "Duck",
+        "price": 125000,
+        "hostile": ["jackolantern","dragon"],
+        "friendly": ["kraken","boxturtle","duck"]
+    },
+    {
+        "id": 7,
+        "itemKey": "turtle",
+        "name": "Turtle",
+        "price": 125000,
+        "hostile": ["panda"],
+        "friendly": ["crab","duck","rarepepe","boxturtle"]
+    },
+    {
+        "id": 8,
+        "itemKey": "bunny",
+        "name": "Bunny",
+        "price": 125000,
+        "hostile": ["snake","trex"],
+        "friendly": ["catgirl","rabbit","panda"]
+    },
+    {
+        "id": 9,
+        "itemKey": "birb",
+        "name": "Birb",
+        "price": 150000,
+        "hostile": ["cat"],
+        "friendly": ["dragon","monkey","rarepepe","birb"]
+    },
+    {
+        "id": 10,
+        "itemKey": "monkey",
+        "name": "Monkey",
+        "price": 150000,
+        "hostile": ["panda"],
+        "friendly": ["rock","monkey"]
+    },
+    {
+        "id": 11,
+        "itemKey": "panda",
+        "name": "Panda Bear",
+        "price": 200000,
+        "hostile": ["monkey","rarepepe"],
+        "friendly": ["panda","birb"]
+    },
+    {
+        "id": 12,
+        "itemKey": "rarepepe",
+        "name": "Pepe",
+        "price": 250000,
+        "hostile": ["catgirl"],
+        "friendly": ["alien","rarepepe"]
+    },
+    {
+        "id": 13,
+        "itemKey": "fox",
+        "name": "Fox",
+        "price": 500000,
+        "hostile": ["cat","birb"],
+        "friendly": ["dog","fox"]
+    },
+    {
+        "id": 14,
+        "itemKey": "catgirl",
+        "name": "Catgirl",
+        "price": 500000,
+        "hostile": ["dog","alien"],
+        "friendly": ["cat","catgirl"]
+    },
+    {
+        "id": 15,
+        "itemKey": "dragon",
+        "name": "Dragon",
+        "price": 0,
+        "purchaseable": false,
+        "hostile": ["alien","trex","kraken"],
+        "friendly": ["dragon","snake"]
+    },
+    {
+        "id": 16,
+        "itemKey": "kraken",
+        "name": "Kraken",
+        "price": 0,
+        "purchaseable": false,
+        "hostile": ["dragon","trex","kraken","alien","rarepepe"],
+        "friendly": ["duck","crab","kraken"]
+    },
+    {
+        "id": 17,
+        "itemKey": "trex",
+        "name": "T-Rex",
+        "price": 0,
+        "purchaseable": false,
+        "hostile": ["dragon","kraken","alien"],
+        "friendly": ["duck","trex"]
+    },
+    {
+        "id": 18,
+        "itemKey": "alien",
+        "name": "Alien",
+        "price": 0,
+        "purchaseable": false,
+        "hostile": ["rock"],
+        "friendly": ["rarepepe","catgirl","alien"]
+    },
+    {
+        "id": 19,
+        "itemKey": "capybara",
+        "name": "Capybara",
+        "price": 0,
+        "purchaseable": false,
+        "hostile": [],
+        "friendly": ["rock","crab","snake","dog","cat","duck","boxturtle","rabbit","birb","monkey","panda","rarepepe","catgirl","dragon","trex","alien","capybara"]
+    },
+    {
+        "id": 20,
+        "itemKey": "blob",
+        "name": "Blob",
+        "price": 0,
+        "purchaseable": false,
+        "hostile": [],
+        "friendly": []
+    },
+    {
+        "id": 21,
+        "itemKey": "jackolantern",
+        "name": "Jack O' Lantern",
+        "price": 0,
+        "purchaseable": false,
+        "hostile": [],
+        "friendly": []
+    },
+    {
+        "id": 22,
+        "itemKey": "krampus",
+        "name": "Krampus",
+        "price": 0,
+        "purchaseable": false,
+        "hostile": [],
+        "friendly": []
+    }
+]

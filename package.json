@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/0xzer/dankbeamer/issues"
   },
-  "homepage": "https://github.com/0xzer/dankbeamer#readme"
+  "homepage": "https://github.com/0xzer/dankbeamer#readme",
+  "dependencies": {
+    "discord.js": "^14.8.0",
+    "js-abbreviation-number": "^1.4.0"
+  }
 }

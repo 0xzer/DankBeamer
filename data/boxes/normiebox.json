@@ -1,0 +1,72 @@
+[
+  {
+    "percent": 20.9,
+    "itemKey": "cookie",
+    "id": 4,
+    "maxAmount": 2,
+    "minAmount": 1
+  },
+  {
+    "percent": 19,
+    "itemKey": "banknote",
+    "id": 59,
+    "maxAmount": 2,
+    "minAmount": 1
+  },
+  {
+    "percent": 19,
+    "id": 148,
+    "itemKey": "sand",
+    "maxAmount": 2,
+    "minAmount": 1
+  },
+  {
+    "percent": 19,
+    "itemKey": "horseshoe",
+    "id": 157,
+    "maxAmount": 2,
+    "minAmount": 1
+  },
+  {
+    "percent": 9.5,
+    "itemKey": "ducttape",
+    "id": 43,
+    "maxAmount": 2,
+    "minAmount": 1
+  },
+  {
+    "percent": 9.5,
+    "itemKey": "pepe",
+    "id": 160,
+    "maxAmount": 1,
+    "minAmount": 1
+  },
+  {
+    "percent": 0.9,
+    "itemKey": "bait",
+    "id": 133,
+    "maxAmount": 1,
+    "minAmount": 1
+  },
+  {
+    "percent": 0.9,
+    "itemKey": "ammo",
+    "id": 132,
+    "maxAmount": 1,
+    "minAmount": 1
+  },
+  {
+    "percent": 0.9,
+    "itemKey": "pepecoin",
+    "id": 164,
+    "maxAmount": 1,
+    "minAmount": 1
+  },
+  {
+    "percent": 0.4,
+    "itemKey": "meme",
+    "id": 102,
+    "maxAmount": 1,
+    "minAmount": 1
+  }
+]

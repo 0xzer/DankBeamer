@@ -1,0 +1,9 @@
+{
+    "token": "",
+    "clientId": "",
+    "mongoUri": "mongodb://localhost:27017/DankBeamer",
+    "invisibleEmbed": "#36393f",
+    "begMaxCoinReceieve": 600,
+    "begDropItemChance": 80,
+    "owners": []
+}
